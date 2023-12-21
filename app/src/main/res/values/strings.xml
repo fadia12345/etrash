@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Etrash</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+
+    <string name="section_category">Kategori Pilihan</string>
+    <string name="section_apa_itu">Apa Itu?</string>
+
+    <string name="category_scan">Scan</string>
+    <string name="category_location">Lokasi</string>
+    <string name="category_recycle">3R</string>
+    <string name="category_transaction">Transaction</string>
+
+    <string name="apaitu_etrash">Apa Itu E-Trash?</string>
+
+
+    <string name="please_enter_all_data">Please enter all</string>
+
+    <string name="placeholder_search">Cari..</string>
+</resources>
